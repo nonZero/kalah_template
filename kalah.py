@@ -1,2 +1,2 @@
-class Kalah(object):
+class Kalah:
     pass
